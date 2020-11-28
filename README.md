@@ -1,4 +1,8 @@
-# [Material Kit React](https://demos.creative-tim.com/material-kit-react)
+# [Material Kit React]
+
+![Build and Deploy to GitHub Pages](https://github.com/asudbury/react-material-kit/workflows/Build%20and%20Deploy%20to%20GitHub%20Pages/badge.svg)
+
+https://asudbury.github.io/react-material-kit/
 
 ![Product Presentation Image](https://s3.amazonaws.com/creativetim_bucket/products/83/original/opt_mk_react_thumbnail.jpg)
 
