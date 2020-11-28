@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e378adb05a689cc58a7d95e5e3832534",
+    "revision": "038d23d50a2d8a00a849a5ff8d6e9a56",
     "url": "/react-material-kit/index.html"
   },
   {
-    "revision": "e53f4f53350a64bed69e",
+    "revision": "1ed73c3f2e6e737d9a1f",
     "url": "/react-material-kit/static/css/main.c5a3ee5c.chunk.css"
   },
   {
-    "revision": "28a4da6c15aeba5a5474",
-    "url": "/react-material-kit/static/js/2.ed8136d2.chunk.js"
+    "revision": "f664e64c728e01c84fb3",
+    "url": "/react-material-kit/static/js/2.93664884.chunk.js"
   },
   {
     "revision": "8dbc9bd92b344a5deca62eeacc09fc2d",
-    "url": "/react-material-kit/static/js/2.ed8136d2.chunk.js.LICENSE.txt"
+    "url": "/react-material-kit/static/js/2.93664884.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e53f4f53350a64bed69e",
-    "url": "/react-material-kit/static/js/main.17f36f43.chunk.js"
+    "revision": "1ed73c3f2e6e737d9a1f",
+    "url": "/react-material-kit/static/js/main.abbfacce.chunk.js"
   },
   {
     "revision": "9f719cb027fcbbbdf9c3",
