@@ -17,7 +17,7 @@
     "react": "16.13.1",
     "react-datetime": "2.16.3",
     "react-dom": "16.13.1",
-    "react-router-dom": "5.2.0",
+    "react-router-dom": "6.28.0",
     "react-scripts": "5.0.1",
     "react-slick": "0.30.2",
     "react-swipeable-views": "0.14.0"
